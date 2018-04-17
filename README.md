@@ -2,7 +2,7 @@
 ## bitclimb-ipc 
 - Bitclimb messaging socket library for listening to notifications from other local processes such as Bitcoin wallet's `blocknotify`.
 - Supports `IPC(Unix Socket`), `Tcp` and `Udp`
-- Installation `npm install bitclimb-api`
+- Installation `npm install bitclimb-ipc --save`
 - Supports messaging via Bash shell `netcap` or `nc`
 
 note: all data from clients are on `buffer` format. You can convert it to regular text using `data.toString()`
