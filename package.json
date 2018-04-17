@@ -1,0 +1,27 @@
+{
+  "name": "bitclimb-ipc",
+  "version": "1.0.0",
+  "description": "Bitclimb messaging socket library for listening to notifications from other local processes such as Bitcoin wallet's",
+  "private": false,
+  "engines": {
+    "node": ">=8"
+  },
+  "main": "index.js",
+  "keywords": [
+    "socket ipc zeromq bitcoin"
+  ],
+  "author": "Uni Sayo <unibtc@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/Bitclimb/bitclimb-ipc",
+  "bugs": {
+    "url": "https://github.com/Bitclimb/issues"
+  },
+  "homepage": "https://github.com/Bitclimb#readme",
+  "dependencies": {
+    "amp": "^0.3.1",
+    "amp-message": "^0.1.2"
+  },
+  "devDependencies": {
+    "debug": "^3.1.0"
+  }
+}
