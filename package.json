@@ -1,6 +1,6 @@
 {
   "name": "bitclimb-ipc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bitclimb messaging socket library for listening to notifications from other local processes such as Bitcoin wallet's",
   "private": false,
   "engines": {
